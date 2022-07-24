@@ -1,0 +1,4 @@
+requests
+pick
+colorama
+console
